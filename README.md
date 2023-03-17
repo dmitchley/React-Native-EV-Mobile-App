@@ -9,7 +9,7 @@ This is a mobile app developed using Expo and React Native that allows Mercedes 
 
 ## Demo Video
 
-[![Demo Video](./assets/images/videoThumbnail.png)](./assets/images/Recording%20%2320.mp4)
+[![Demo Video](./assets/images/videoThumbnail.png)](./assets/images/ezgif.com-video-to-gif.gif)
 
 ## Screenshots
 
